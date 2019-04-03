@@ -1,0 +1,17 @@
+h1{
+	color:white;
+	background-color:  #1C3A97;
+	text-align: center;
+}
+
+p{
+	font-size:20px;
+	color:#97241C;
+	text-align: center;
+	text-decoration: underline;
+}
+a{
+	color:#1C3A97;
+	font-size:30px;
+	text-decoration:line-through;
+}
